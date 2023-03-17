@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>contact on mainakmandal.in</title>
+    <link>https://mm-crj.github.io/tags/contact/</link>
+    <description>Recent content in contact on mainakmandal.in</description>
+    <image>
+      <title>mainakmandal.in</title>
+      <url>https://mm-crj.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://mm-crj.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Sep 2022 22:13:29 +0200</lastBuildDate><atom:link href="https://mm-crj.github.io/tags/contact/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://mm-crj.github.io/contact/</link>
+      <pubDate>Mon, 19 Sep 2022 22:13:29 +0200</pubDate>
+      
+      <guid>https://mm-crj.github.io/contact/</guid>
+      <description>_&amp;#39;Ofcourse its made up! Its math.&amp;#39; -- Grant Sanderson,3Blue1Brown._</description>
+    </item>
+    
+  </channel>
+</rss>

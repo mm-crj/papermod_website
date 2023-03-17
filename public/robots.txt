@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: localhost/sitemap.xml
+Sitemap: https://mm-crj.github.io/sitemap.xml

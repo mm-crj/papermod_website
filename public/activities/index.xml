@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>About on mainakmandal.in</title>
-    <link>https://mm-crj.github.io/about/</link>
-    <description>Recent content in About on mainakmandal.in</description>
+    <title>Activities on mainakmandal.in</title>
+    <link>https://mm-crj.github.io/activities/</link>
+    <description>Recent content in Activities on mainakmandal.in</description>
     <image>
       <title>mainakmandal.in</title>
       <url>https://mm-crj.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,6 +11,6 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://mm-crj.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Sep 2022 22:13:29 +0200</lastBuildDate><atom:link href="https://mm-crj.github.io/activities/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
