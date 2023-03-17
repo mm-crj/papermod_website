@@ -49,3 +49,5 @@ Thumbs.db
 *.wmv
 deployment
 deployment.pub
+./ghpages_deployment
+./ghpages_deployment.pub
