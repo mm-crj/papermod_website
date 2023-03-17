@@ -16,6 +16,11 @@ This README would normally document whatever steps are necessary to get your app
 * How to run tests
 * Deployment instructions
 
+To deploy simply go to the public folder and `git add commit push`. Using git
+modules is much much simpler than using the nightmare that is git actions. I had
+some `Error loading key "/home/runner/.ssh/github": error in libcrypto`. Which I
+dk how to solve. But submodules is a great solution, which I can live with.
+
 ### Contribution guidelines ###
 
 * Writing tests
