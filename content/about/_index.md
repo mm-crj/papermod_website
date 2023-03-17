@@ -34,7 +34,7 @@ cover:
     hidden: true # only hide on current single page
 ---
 
-Hi, there! I am currently a PhD student at  the [Institute of Scientific Computing](https://tu-dresden.de/mn/math/wir/das-institut?set_language=en), [TU Dresden](https://te-dresden.de) and I work with [**Jun. Prof.Markus Schmidtschen**](https://markusschmidtschen.com). 
+ newHi, there! I am currently a PhD student at  the [Institute of Scientific Computing](https://tu-dresden.de/mn/math/wir/das-institut?set_language=en), [TU Dresden](https://te-dresden.de) and I work with [**Jun. Prof.Markus Schmidtschen**](https://markusschmidtschen.com). 
 ## Academic Career
 I obtained my Integrated Bachelors and Masters of Science in Mathematics  in 2017 from the [Department of Mathematics and Statistics](https://math.iiserkol.ac.in/), [Indian Institute of Science Education and Research, Kolkata](https://www.iiserkol.ac.in/web/en/#gsc.tab=0) with a [INSPIRE-SHE ](https://www.online-inspire.gov.in/Account/INSPIREProgramme) Scholarship. My masters thesis was supervised by [**Associate Professor Dr. Kuntal Ghosh**](https://www.isical.ac.in/kuntal-ghosh), [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/).
 
