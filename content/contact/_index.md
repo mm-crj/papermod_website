@@ -49,6 +49,4 @@ cover:
 
 `+49 351 463-42378`
 
-### Extracurriculars
-When I am not busy with academics, I like to engage in physical sports like football, swimming, hiking and table tennis. I am a huge fan of Linux, LaTeX, nvim and opensource tech in general. I also enjoy reading books, making math expositon videos on [YouTube](https://www.youtube.com/@ananta3286) and occasionally dabble in the stock market!
 
