@@ -16,6 +16,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  math: true
   title: MainakMandal
   description: " My Website"
   keywords: [Blog, Math, PaperMod]
