@@ -51,3 +51,4 @@ deployment
 deployment.pub
 ./ghpages_deployment
 ./ghpages_deployment.pub
+./public/
