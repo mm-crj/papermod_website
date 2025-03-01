@@ -26,6 +26,7 @@ jobs:
         run: hugo --minify
 
       - name: Deploy
+        if: github.event_name == 'push' && github.actor != 'github-actions[bot]'
         uses: peaceiris/actions-gh-pages@v4
         with:
           deploy_key: ${{ secrets.DEPLOY_KEY }}
