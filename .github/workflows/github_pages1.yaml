@@ -29,6 +29,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          external_repository:mm-crj/mm-crjx.github.io
+          external_repository:mm-crj/mm-crj.github.io
           publish_branch: main
           publish_dir: ./public
