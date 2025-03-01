@@ -1,20 +1,4 @@
-# on:
-#   push:
-#     branches:
-#       - main
-#   pull_request:
-
-# jobs:
-#   deploy:
-#     runs-on: ubuntu-20.04
-#     steps:
-#       - uses: actions/checkout@v2
-#         with:
-#           submodules: true  # Fetch Hugo themes (true OR recursive)
-#           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-
 name: Github Pages
-
 on:
   push:
     branches:
@@ -29,8 +13,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          submodules: true # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
+          submodules: true
+          fetch-depth: 0
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -44,5 +28,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           deploy_key: ${{ secrets.PRIVATE_KEY }}
-          external_repository: <mm-crj/mm-crj.github.io>
+          external_repository: mm-crj/mm-crj.github.io
           publish_dir: ./public
+          publish_branch: main

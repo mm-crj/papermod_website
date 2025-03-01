@@ -36,5 +36,5 @@ Let's talk about a very simple looking problem on Leetcode, called [912. Sort An
 Array](https://leetcode.com/problems/sort-an-array/description/). I knew
 bubble sort and quicksort from my Data Structure classes from IISER Kolkata days,
 of course most of the course was on taught on paper. But I knew QuickSort was
-$ O(log(n))$. So, I revised my quicksort and got to work. It was quite easy and was passing the given tests. But I was hit with 'test failed'
+$ O(log(n))$. So, I revised my quicksort and got to work. It was quite easy and was passing the given tests. But I was hit with `test failed`.
 
