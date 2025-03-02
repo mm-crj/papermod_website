@@ -45,7 +45,7 @@ params:
   enableInlineShortcodes: true
 
   assets:
-    # disableHLJS: true # to disable highlight.js
+    disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
     favicon: "<link / abs url>"
     favicon16x16: "<link / abs url>"
@@ -155,8 +155,8 @@ pygmentsUseClasses: true
 markup:
   highlight:
     noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    style: monokai

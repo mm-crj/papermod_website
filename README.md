@@ -15,10 +15,8 @@ This README would normally document whatever steps are necessary to get your app
 * Publishing changes: remove the draft flag.
 * Deployment instructions: go to the public folder and `git add commit push`
 
-To deploy simply . Using git
-modules is much much simpler than using the nightmare that is git actions. I had
-some `Error loading key "/home/runner/.ssh/github": error in libcrypto`. Which I
-dk how to solve. But submodules is a great solution, which I can live with.
+To deploy simply push the ./public/ directory. Using git modules is much much simpler.
+But the git-deployment has been simplified using github
 
 ## Contribution guidelines ###
 
